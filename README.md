@@ -6,7 +6,6 @@
 
 - **HTML Structure:** Basic HTML layout and structure.
 - **CSS Styling:** Simple styling to enhance the appearance of the webpage.
-- **JavaScript Functionality:** Basic interactivity and dynamic content.
 
 ## Prerequisites
 
